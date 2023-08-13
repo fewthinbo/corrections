@@ -1,7 +1,4 @@
-diff --git a/P2P.Find/p2p.cpp b/P2P.Find/p2p.cpp
---- a/P2P.Find/p2p.cpp
-+++ b/P2P.Find/p2p.cpp
-@@ -2,7 +2,7 @@ CCI * P2P_MANAGER::Find(const char * c_pszName)
+in CCI * P2P_MANAGER::Find(const char * c_pszName)
  {
  	TCCIMap::const_iterator it;
  
